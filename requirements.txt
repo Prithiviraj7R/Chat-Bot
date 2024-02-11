@@ -3,4 +3,5 @@ langchain
 langchain-openai
 langchain-cli
 openai
-# -e .
+streamlit-chat
+python-dotenv
